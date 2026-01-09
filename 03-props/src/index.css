@@ -19,14 +19,25 @@ html, body {
 }
 .card {
  width: 300px;
- border:  1px solid white;
+ border: solid black;
  padding: 20px;
  text-align: center;
  border-radius: 10px;
  background-color: #333;
 }
 
-.card botton{
+.card img{
+     height: 100px;
+     width: 100px;
+     object-fit: cover;
+     border-radius: 50%;
+}
+
+.card p{
+  margin: 20px 0px;
+}
+
+.card button{
   padding: 10px 20px;
   background-color: #fff;
   color: black;

@@ -1,0 +1,45 @@
+.Header {
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  margin: 5px;
+}
+
+.logo{
+   text-decoration: solid underline;
+}
+
+.btn {
+  background-color: yellow;
+  text-decoration: wavy underline;
+}
+
+.btn2 {
+  background-color: black;
+  margin: 5px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+btn3 {
+  background-color: black;
+  margin: 5px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+btn4 {
+  background-color: black;
+  margin: 5px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+btn5 {
+  background-color: black;
+  margin: 5px;
+  justify-content: space-between;
+  align-items: center;
+}

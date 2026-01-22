@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: helvetica neue;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+.card {
+  background-color: pink;
+  border-radius: 10px;
+  margin: 20px ;
+  padding: 20px;
+}
+
+.navbar {
+  background-color: rgb(197, 122, 94);
+  margin: 5px;
+  padding: 20px;
+}

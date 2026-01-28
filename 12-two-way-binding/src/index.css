@@ -3,16 +3,17 @@
   padding: 0;
   box-sizing: border-box;
   font-family: helvetica neue;
-  color: #fff;
+  color: black;
 }
 
 html, body {
   width: 100%;
   height: 100%;
-  background-color: #111;
+  background-color: white;
 }
 
-
-
-
-
+input, button{
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 15px;
+}
